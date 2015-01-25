@@ -11,4 +11,4 @@ Branching: Working on different parts of the repo
 
 Commit: Making changes to part of the repo; inside a specific branch
 
-These branches can be put together. Or compared, using pull requests. 
+Pull request: The branches can now be merged and the old branch can be deleted
